@@ -9,10 +9,12 @@ _____________________________
 1. Get all restaurants (GET)
 2. Get all menu items for a particular restaurant (GET)
 3. Add restaurant to list (POST)
-4. Delete restaurant from list (DELETE)
-5. Delete menu item from list (DELETE)
+4. Add menu item to the list of a particular restaurant (POST)
+5. Delete restaurant from list (DELETE)
+6. Delete menu item from list (DELETE)
 
 ## URLs
 1. http://localhost:3001 : Home page with list of restaurants
 2. http://localhost:3001/restaurant/{id} : Page with list of menu items for particular restaurant
 3. http://localhost:3001/add-restaurant : Page that allows the user to add restaurants to the json-server
+4. http://localhost:3001/add-menu-item/{id} : Page where users can add a menu item to a specific restaurant
