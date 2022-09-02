@@ -9,7 +9,7 @@ _____________________________
 1. Get all restaurants (GET)
 2. Get all menu items for a particular restaurant (GET)
 3. Add restaurant to list (POST)
-4. Add menu item to the list of a particular restaurant (POST)
+4. Add menu item to the list for a particular restaurant (POST)
 5. Delete restaurant from list (DELETE)
 6. Delete menu item from list (DELETE)
 
